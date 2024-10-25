@@ -1,4 +1,5 @@
 # sej-pizza-del
 ## A website for ordering pizza
-### A React project using JavaScript
+### Project using
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript">
 
