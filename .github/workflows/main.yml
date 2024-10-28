@@ -7,9 +7,8 @@ jobs:
     steps:
     - name: 🚚 Get latest code
       uses: actions/checkout@v3
-    - name: 🔌 Change directory
-      working-directory: ./frontend
     - name: 🔨 Build Project
+      working-directory: ./frontend
       run: |
         npm install
         npm run build
