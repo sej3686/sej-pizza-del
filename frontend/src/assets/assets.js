@@ -108,7 +108,7 @@ export const menu_list = [
         menu_image: menu_6
     },
     {
-        menu_name: "Bruger",
+        menu_name: "Burger",
         menu_image: menu_7
     },
     {
