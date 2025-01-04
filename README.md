@@ -3,4 +3,4 @@
 ### Tech Stack
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 
-## Check out the Website [here] (https://comfy-gecko-177088.netlify.app/)
+## Check out the Website [here](https://comfy-gecko-177088.netlify.app/)
